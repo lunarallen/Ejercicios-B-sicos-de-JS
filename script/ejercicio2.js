@@ -1,2 +1,2 @@
-const hello = 'Hellow world'
-document.write(hello);
+document.write('hello world');
+
